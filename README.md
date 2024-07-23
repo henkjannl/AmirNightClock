@@ -5,7 +5,7 @@ Gefeliciteerd met deze **Nachtklok Amir®**. We hopen dat je er jarenlang plezie
 In deze **Nachtklok Amir®** kun je twee tijden instellen: eentje wanneer Amir wakker wordt en eentje wanneer hij gaat slapen. Als Amir moet slapen komt er een maan in beeld. Als Amir wakker mag worden verschijnt er een zon in beeld. Dit is een heel handige manier waarop Amir zelf weet wanneer hij zijn bek dicht moet houden. En het grote voordeel is: met andere kinderen werkt het ook.
 
 
-## Hoe werkt de nachtklok?
+## Hoe werkt **Nachtklok Amir®**?
 
 De **Nachtklok Amir®** heeft geen interne batterij of klok. Om te weten hoe laat het is moet **Nachtklok Amir®** verbinding maken met een timeserver op internet. **Nachtklok Amir®** doet dat via WiFi. Dit kan een vast WiFi station in huis zijn, maar ook een hotspot. Handig voor als je onderweg bent!
 
@@ -13,7 +13,7 @@ De **Nachtklok Amir®** heeft geen interne batterij of klok. Om te weten hoe laa
     <img src="img/front_view.png" alt="drawing" width="742"/> 
 </p>
 
-**Nachtklok Amir®** heeft een scherm en een knop waar je aan kan draaien, maar die je ook kan indrukken. 
+**Nachtklok Amir®** heeft een scherm en een knop waar je aan kan draaien, en die je kan indrukken. 
 
 In veel menu's kun je een optie selecteren uit een lijst. De lijst kan heel lang zijn. Een deel van de opties valt dan buiten het scherm.
 
@@ -21,7 +21,9 @@ In veel menu's kun je een optie selecteren uit een lijst. De lijst kan heel lang
     <img src="img/knob_list.png" alt="drawing" width="500"/> 
 </p>
 
-De optie die in het midden van het scherm staat is de geselecteerde optie (in dit geval ```3```). Deze is licht weergegeven. Je kunt de lijst op en neer bewegen door aan de draaiknop te draaien. Als de lijst op en neer beweegt wordt er een andere optie geselecteerd. Door de knop in te drukken kies je de geselecteerde optie.
+De optie die in het midden van het scherm staat is de geselecteerde optie (in dit geval ```3```). Deze is in een lichte kleur weergegeven. Je kunt de lijst op en neer bewegen door aan de draaiknop te draaien. Als de lijst op en neer beweegt wordt er een andere optie geselecteerd. Door de knop in te drukken kies je de geselecteerde optie. Het is eigenlijk zo simpel!
+
+Als je aan het eind van de lijst doordraait gaat hij gewoon verder bij het begin. 
 
 
 ## **Nachtklok Amir®** ontgrendelen
@@ -57,11 +59,11 @@ In het volgende scherm heb je meer opties dan je je in je stoutste dromen maar h
 Draai de knop om de optie die je wilt kiezen te selecteren, en druk dan de knop in.
 
 
-## WiFi station kiezen en wachtwoord invoeren
+## WiFi kiezen en wachtwoord invoeren
 
-We beginnen even met optie ```WiFi``` uit het bovenstaande lijstje, omdat je dat de eerste keer moet doen als **Nachtklok Amir®** nog helemaal nieuw is.
+We beginnen even met de optie ```WiFi``` uit het bovenstaande lijstje, omdat je dat de eerste keer moet doen als **Nachtklok Amir®** nog helemaal nieuw is.
 
-Het goede nieuws is dat je dit voor ieder WiFi access point maar één keer hoeft te doen. **Nachtklok Amir®** onthoudt de naam van WiFi access points en de wachtwoorden om in te loggen. Het slechte nieuws is dat het heel veel werk is.
+Het goede nieuws is dat je dit voor ieder WiFi access point maar één keer hoeft te doen. **Nachtklok Amir®** onthoudt de naam van WiFi access points en de wachtwoorden om in te loggen. Het slechte nieuws is dat het best veel werk is.
 
 Als je de optie WiFi kiest gaat **Nachtklok Amir®** even zoeken welke zenders in de buurt zijn. Dit duurt eventjes. Daarna worden de 20 sterkste zenders getoond.
 
@@ -131,7 +133,7 @@ Er is echter ook nog een veel makkelijkere manier om de helderheid van het scher
 
 Ik heb dit menu dus eigenlijk voor Jan Lul gemaakt.
 
-Ik heb ervoor gekozen dat je de helderheid van het scherm heel laag te kunnen zetten zodat je er 's nachts niet wakker van wordt. Het kan dus zijn dat je bij normaal daglicht niks ziet op het scherm omdat de helderheid te laag staat. Je moet dan het wieltje "omhoog" draaien. 
+Ik heb ervoor gekozen dat je de helderheid van het scherm heel kunt zetten zodat je er 's nachts niet wakker van wordt. Het kan dus zijn dat je bij normaal daglicht niks ziet op het scherm omdat de helderheid te laag staat. Je moet dan het wieltje "omhoog" draaien. 
 
 
 ## Informatie
@@ -148,20 +150,18 @@ Hiermee ga je weer terug naar het scherm met het zonnetje of het maantje.
 
 ## Leuke weetjes
 
+De **Nachtklok Amir®** maakt via de WiFi verbinding met een timeserver. Als je **Nachtklok Amir®** met je telefoon verbind, maar je telefoon is niet verbonden met internet, dan weet **Nachtklok Amir®** nog steeds niet hoe laat het is omdat hij geen verbinding met de timeserver kan maken. Je kunt dan wel de tijd handmatig instellen.
+
 Als de **Nachtklok Amir®** contact zoekt met de tijdserver kan hij een beetje warm worden. Dit kan geen kwaad. Als de tijd gesynchroniseerd is schakelt hij automatisch de WiFi uit, zodat hij minder stroom verbruikt. De **Nachtklok Amir®** wordt gevoed met 5V uit de USB poort en dat is helemaal veilig.
 
+Zolang de klok niet is gelijk gezet blijft **Nachtklok Amir®** proberen om contact te zoeken met de server. Zodra je de tijd handmatig instelt stopt hij daarmee, en dan wordt hij dus ook minder warm.
 
 Als je te hard aan het snoertje trekt gaat **Nachtklok Amir®** stuk. Het is misschien niet zo'n goed idee om hem in bed te leggen. Ik zou eventueel wel een beugeltje kunnen printen dat je ergens tegenaan kan plakken of schroeven. 
 
 
-De **Nachtklok Amir®** maakt via de WiFi verbinding met een timeserver. Als je **Nachtklok Amir®** met je telefoon verbindt, maar je telefoon is niet verbonden met internet, dan weet **Nachtklok Amir®** nog steeds niet hoe laat het is omdat hij geen verbinding met de timeserver kan maken. Je kunt dan wel de tijd handmatig instellen.
-
-Zolang de klok niet is gelijk gezet blijft **Nachtklok Amir®** proberen om contact te zoeken met de server. Zodra je de tijd handmatig instelt stopt hij daarmee, en dan wordt hij dus ook niet meer warm.
-
-
 Normaal gesproken zou je verwachten dat Amir 's morgens opstaat en 's avonds weer gaat slapen. Bijvoorbeeld opstaan om 7:00 en gaan slapen om 20:00. Het zonnetje verschijnt dan tussen 7:00 en 20:00.
 
-Maar stel dat iemand instelt dat Amir om 7:00 gaat slapen en om 20:00 weer opstaat, dan verschijnt het maantje overdag en het zonnetje 's nachts. Dat klopt in principe natuurlijk wel maar eigenlijk zou de **Nachtklok Amir®** dan natuurlijk een mailtje naar de kinderbescherming® moeten sturen.
+Maar stel dat iemand instelt dat Amir om 7:00 gaat slapen en om 20:00 weer opstaat, dan verschijnt het maantje overdag en het zonnetje 's nachts. Dat klopt in principe natuurlijk wel maar eigenlijk zou de **Nachtklok Amir®** dan een mailtje naar de kinderbescherming® moeten sturen.
 
 Als je een paar minuten niet op de knop drukt of eraan draait springt **Nachtklok Amir®** terug naar het zonnetje of het maantje.
 
