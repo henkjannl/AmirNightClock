@@ -39,7 +39,7 @@ Om te voorkomen dat Amir zelf aan de instellingen gaat lopen kloten is de nachtk
 Hier staan vier vakjes waar je de letters ```I```, ```R```, ```I``` en ```S``` moet invullen. 
 
 
-In het begin is het eerste hokje rood. Je moet dan met de draaiknop de ```I``` selecteren en de knop indrukken. Als je een fout maakt kun je een karakter teruggaan door ```BCKSP``` te selecteren en op de knop te drukken. Als je toch liever niet wilt ontgrendelen kun je ook ```CANCEL``` kiezen. Als je de ```R```, de ```I``` en de ```S``` ook goed hebt ingevuld kom je in het scherm met alle opties.
+In het begin is het eerste hokje rood. Je moet dan met de draaiknop de ```I``` selecteren en de knop indrukken. Als je een fout maakt kun je een karakter teruggaan door ```BCKSP``` te selecteren en op de knop te drukken. Als je toch liever niet wilt ontgrendelen kun je ook ```CANCEL``` kiezen. Als je alle letters goed hebt ingevuld kom je in het scherm met alle opties.
 
 
 ## Het scherm met alle opties
@@ -50,7 +50,6 @@ In het volgende scherm heb je meer opties dan je je in je stoutste dromen maar h
 * ```Tijd om te gaan slapen```
 * ```Klok instellen```
 * ```Tijdzone instellen```
-* ```Helderheid scherm```
 * ```Wifi```
 * ```Informatie```
 * ```Fabrieksinstellingen```
@@ -94,7 +93,9 @@ In ieder lijstje zijn vier opties blauw weergegeven. Met deze knoppen kun je naa
 
 Als je bijvoorbeeld een ```#``` wilt invoeren kies je eerst de optie ```!@#```, en dan staat ```#``` in de opties die je kunt kiezen.
 
-Op deze manier kun je karakter voor karakter je WiFi wachtwoord invoeren. Als je dit hebt gedaan kies je ```OK``` en druk je op de knop. **Nachtklok Amir®** maakt dan verbinding met internet om de klok gelijk te zetten. Het menu springt weer terug naar het scherm met alle opties.
+Op deze manier kun je karakter voor karakter je WiFi wachtwoord invoeren. Als je dit hebt gedaan kies je ```OK``` en druk je op de knop. **Nachtklok Amir®** maakt dan verbinding met internet om de klok gelijk te zetten. Dit duurt eventjes. Het menu springt weer terug naar het scherm met alle opties.
+
+**Nachtklok Amir®** geeft nog geen foutmelding als het wachtwoord niet klopt. Je kunt het menu ```Informatie``` gebruiken om te controleren of het gelukt is  om verbinding te maken.
 
 
 ## Tijd om op te staan instellen
@@ -125,19 +126,13 @@ Ik heb 24 tijdzones in het lijstje opgenomen. **Nachtklok Amir®** houdt ook rek
 In het scherm ```Informatie``` kun je overigens controleren of de klok de juiste tijd aangeeft.
 
 
-## Helderheid scherm
-
-De naam zegt het al. Hier kun je de helderheid van het scherm instellen. Ik heb er bewust voor gekozen om deze instelling niet permanent te bewaren. Als **Nachtklok Amir®** inschakelt staat hij weer op de maximale felheid. Voor als je per ongeluk in de woestijn bent als je hem inschakelt en je dit menu niet kunt vinden.
-
-Er is echter ook nog een veel makkelijkere manier om de helderheid van het scherm aan te passen. Als je in het hoofdscherm bent (dus met het zonnetje of het maantje) kun je de helderheid veranderen door aan de draaiknop te draaien. Dan kan Amir het zelf ook als hij het lampje te fel vind.
-
-Ik heb dit menu dus eigenlijk voor Jan Lul gemaakt.
-
-Ik heb ervoor gekozen dat je de helderheid van het scherm heel kunt zetten zodat je er 's nachts niet wakker van wordt. Het kan dus zijn dat je bij normaal daglicht niks ziet op het scherm omdat de helderheid te laag staat. Je moet dan het wieltje "omhoog" draaien. 
-
-
 ## Informatie
-In dit scherm staat of de WiFi verbonden is, of de klok al gesynchroniseerd is, met welk WiFi station **Nachtklok Amir®** verbonden is, en de huidige tijd. Dit is een beetje bedoeld om te checken wat er mis is als je het niet helemaal vertrouwt.
+In dit scherm staat of de WiFi verbonden is, of de klok al gesynchroniseerd is, met welk WiFi station **Nachtklok Amir®** verbonden is, en de huidige tijd.
+
+Je kunt hier controleren of: 
+* **Nachtklok Amir®** verbonden is geweest met de WiFi (zodat je weet dat je het juiste wachtwoord hebt gebruikt)
+* De klok gelijk loopt
+* De juiste tijdzone is gekozen
 
 
 ## Fabrieksinstellingen
@@ -148,9 +143,19 @@ Met deze optie kun je alle instellingen wissen. Hierdoor vergeet hij ook de name
 Hiermee ga je weer terug naar het scherm met het zonnetje of het maantje.
 
 
-## Leuke weetjes
+## Wist-u-datjes
 
-De **Nachtklok Amir®** maakt via de WiFi verbinding met een timeserver. Als je **Nachtklok Amir®** met je telefoon verbind, maar je telefoon is niet verbonden met internet, dan weet **Nachtklok Amir®** nog steeds niet hoe laat het is omdat hij geen verbinding met de timeserver kan maken. Je kunt dan wel de tijd handmatig instellen.
+### Helderheid scherm
+Als je in het hoofdscherm bent (dus met het zonnetje of het maantje) kun je de helderheid van het scherm veranderen door aan de draaiknop te draaien. Dan kan Amir het zelf ook als hij het lampje te fel vind.
+
+Ik heb ervoor gekozen dat je de helderheid van het scherm heel laag kunt zetten zodat je er 's nachts niet wakker van wordt. Het kan dus zijn dat je bij normaal daglicht niks ziet op het scherm omdat de helderheid te laag staat. Je moet dan het wieltje "omhoog" draaien. 
+
+Deze instelling wordt niet bewaard. Iedere keer dat **Nachtklok Amir®** opstart begint hij met de felste instelling van het scherm. Als je in de woestijn bent loop je dus niet het risico dat je niks op het scherm ziet.
+
+
+### Timeserver, WiFi en internet
+
+De **Nachtklok Amir®** maakt via de WiFi verbinding met een timeserver. Als je **Nachtklok Amir®** met je telefoon verbindt, maar je telefoon is niet verbonden met internet, dan weet **Nachtklok Amir®** nog steeds niet hoe laat het is omdat hij geen verbinding met de timeserver kan maken. Je kunt dan wel de tijd handmatig instellen in het menu ```Klok instellen```.
 
 Als de **Nachtklok Amir®** contact zoekt met de tijdserver kan hij een beetje warm worden. Dit kan geen kwaad. Als de tijd gesynchroniseerd is schakelt hij automatisch de WiFi uit, zodat hij minder stroom verbruikt. De **Nachtklok Amir®** wordt gevoed met 5V uit de USB poort en dat is helemaal veilig.
 
@@ -158,21 +163,19 @@ Zolang de klok niet is gelijk gezet blijft **Nachtklok Amir®** proberen om cont
 
 Als je te hard aan het snoertje trekt gaat **Nachtklok Amir®** stuk. Het is misschien niet zo'n goed idee om hem in bed te leggen. Ik zou eventueel wel een beugeltje kunnen printen dat je ergens tegenaan kan plakken of schroeven. 
 
-
+### Nachtdienst?
 Normaal gesproken zou je verwachten dat Amir 's morgens opstaat en 's avonds weer gaat slapen. Bijvoorbeeld opstaan om 7:00 en gaan slapen om 20:00. Het zonnetje verschijnt dan tussen 7:00 en 20:00.
 
 Maar stel dat iemand instelt dat Amir om 7:00 gaat slapen en om 20:00 weer opstaat, dan verschijnt het maantje overdag en het zonnetje 's nachts. Dat klopt in principe natuurlijk wel maar eigenlijk zou de **Nachtklok Amir®** dan een mailtje naar de kinderbescherming® moeten sturen.
 
+### Time out
 Als je een paar minuten niet op de knop drukt of eraan draait springt **Nachtklok Amir®** terug naar het zonnetje of het maantje.
 
 
 ## To do
 Wat ik nog wil verbeteren:
-* Ik wil in het beginscherm nog een derde soort plaatje opnemen dat aangeeft dat **Nachtklok Amir®** eigenlijk geen idee heeft hoe laat het is omdat het niet gelukt is om de klok gelijk te zetten
 * Je kunt nu bij de tijden ook 26:00 of iets dergelijks instellen. Dat is natuurlijk superdom van degene die het doet maar eigenlijk had ik dat moeten voorkomen.
-* Ik moet nog beter testen of het zelf instellen van de tijd goed werkt (voor als je geen WiFi hebt)
-* Ik moet nog beter testen of de klok wel goed gelijk wordt gezet
-* Ik moet nog iets beter testen of het zonnetje en het maantje goed werken
+* Melding geven of het wachtwoord van de WiFi klopt
 * Eigenlijk wil ik icoontjes maken voor ```OK```, ```Cancel``` en ```BCKSP```
 
 
