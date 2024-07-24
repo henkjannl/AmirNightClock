@@ -130,9 +130,10 @@ In het scherm ```Informatie``` kun je overigens controleren of de klok de juiste
 In dit scherm staat of de WiFi verbonden is, of de klok al gesynchroniseerd is, met welk WiFi station **Nachtklok Amir®** verbonden is, en de huidige tijd.
 
 Je kunt hier controleren of: 
-* **Nachtklok Amir®** verbonden is geweest met de WiFi (zodat je weet dat je het juiste wachtwoord hebt gebruikt)
-* De klok gelijk loopt
+* De klok de juiste tijd heeft
 * De juiste tijdzone is gekozen
+
+Als je bij de WiFi een verkeerd wachtwoord hebt ingevuld krijg je nog geen foutmelding. Dat moet ik nog verbeteren. Je merkt natuulijk wel vanzelf dat het niet automatisch lukt om de klok te synchroniseren met de timeserver.
 
 
 ## Fabrieksinstellingen
@@ -175,8 +176,8 @@ Als je een paar minuten niet op de knop drukt of eraan draait springt **Nachtklo
 ## To do
 Wat ik nog wil verbeteren:
 * Je kunt nu bij de tijden ook 26:00 of iets dergelijks instellen. Dat is natuurlijk superdom van degene die het doet maar eigenlijk had ik dat moeten voorkomen.
-* Melding geven of het wachtwoord van de WiFi klopt
-* Eigenlijk wil ik icoontjes maken voor ```OK```, ```Cancel``` en ```BCKSP```
+* Melding geven of het wachtwoord van de WiFi klopt.
+* Eigenlijk wil ik icoontjes maken voor ```OK```, ```Cancel``` en ```BCKSP```.
 
 
 ## Bugs 
